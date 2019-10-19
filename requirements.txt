@@ -1,0 +1,12 @@
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+# platform: win-64
+jupyter=1.0.0=py37_7
+jupyter_client=5.3.1=py_0
+jupyter_console=6.0.0=py37_0
+jupyter_core=4.5.0=py_0
+pymongo=3.8.0=py37ha925a31_1
+python=3.7.4=h5263a28_0
+requests=2.22.0=pypi_0
+setuptools=41.0.1=py37_0
+wheel=0.33.4=py37_0
